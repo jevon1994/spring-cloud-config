@@ -1,5 +1,4 @@
-
-RABBIT_HOST：localhost
+RABBIT_HOST: localhost
 RABBIT_PORT: 5672
 EUREKA_HOST: localhost
 EUREKA_PORT: 8761
